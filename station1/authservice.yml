@@ -26,7 +26,7 @@ jwt:
   uri: /auth/**
   header: Authorization
   prefix: Bearer
-  expiration: 86400
+  expiration: 1
   secret: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 service:
   username: d245ef53-5ad5-4216-9c56-89fe0f8302a0
