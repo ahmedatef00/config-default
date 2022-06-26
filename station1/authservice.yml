@@ -51,5 +51,5 @@ logging:
 
 
 
-rate: 55555
+rate: '{cipher}a872fb03b05eae8be5a4d834ff72d14a2c5cbc4b9b7bf995a3bcbb27ecfeaaf5'
 lanecount: 5000000000000
